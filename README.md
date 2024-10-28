@@ -1,4 +1,4 @@
-# things-for-thought
+# -for-thought
 
 Welcome to the official things-for-thought course page!
 There's not much here to see but this:
